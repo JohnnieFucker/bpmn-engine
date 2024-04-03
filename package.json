@@ -69,7 +69,7 @@
     "rollup": "^4.10.0"
   },
   "dependencies": {
-    "bpmn-elements": "^13.1.2",
+    "bpmn-elements": "https://github.com/JohnnieFucker/bpmn-elements",
     "bpmn-moddle": "^8.0.1",
     "debug": "^4.3.4",
     "moddle-context-serializer": "^4.0.0",
